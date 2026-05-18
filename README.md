@@ -6,9 +6,11 @@ Uygulama, **Google Gemini API** gücünü kullanarak görsellerdeki metinleri ok
 
 ## 🚀 Canlı Demo (Hemen Deneyin!)
 
-Uygulamayı kurulum yapmadan doğrudan tarayıcınız üzerinden test edebilirsiniz:
+## 🚀 Canlı Demo
 
-👉 **Sayfanın sağ tarafındaki "About" bölümünde bulunan Website linkine tıklayarak uygulamaya ulaşabilirsiniz.** *(Not: Uygulama kullanıma hazırdır, herhangi bir API anahtarı girmenize gerek yoktur.)*
+Proje Netlify üzerinde yayına alınmıştır. Ancak kullanılan Google Gemini API anahtarının ücretsiz kullanım limiti dolduğu durumlarda analiz özelliği geçici olarak çalışmayabilir.
+
+Canlı demo bağlantısına GitHub sayfasının sağ tarafındaki "About" bölümünde yer alan Website linkinden ulaşabilirsiniz.
 
 ## ✨ Öne Çıkan Özellikler
 
